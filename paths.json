@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/cherot/luma-20261008-104431eds-fab/language-masters/en:/",
+    "/content/cherot/luma-20261008-104431eds-fab/language-masters/en/:/en/",
+    "/content/cherot/luma-20261008-104431eds-fab/configuration:/.helix/config.json",
+    "/content/cherot/luma-20261008-104431eds-fab/metadata:/metadata.json",
+    "/content/cherot/luma-20261008-104431eds-fab/redirects:/redirects.json",
+    "/content/cherot/luma-20261008-104431eds-fab/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/cherot/luma-20261008-104431eds-fab/",
+    "/content/dam/cherot/luma-20261008-104431eds-fab/"
   ]
 }
